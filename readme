@@ -8,5 +8,5 @@ Sorting App Documentation
 Use programm from the directory
 Made with pandas, json, tkinter 
 
-Works only with key-value type files 
+Works only with key-value type files, open-source file, exe file spotted in dict file directory 
 
