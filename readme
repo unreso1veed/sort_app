@@ -1,1 +1,12 @@
-Sorting app
+Sorting App Documentation
+
+1) Transform csv file to xsl (or other)
+2) Choose file, then choose key-value 
+3) Write the name of column
+4) Extract the output file 
+
+Use programm from the directory
+Made with pandas, json, tkinter 
+
+Works only with key-value type files 
+
